@@ -1,5 +1,5 @@
 # Introduction
-Description of the project
+Description of the project2
 
 # Pseudocode
 Put pseudocode in this box:
